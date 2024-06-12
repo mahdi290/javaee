@@ -9,7 +9,7 @@
 <header>
     <nav class="navbar navbar-expand-md navbar-dark" style="background-color: black;">
         <div>
-            <a href="#" class="navbar-brand"> Document Management App </a>
+            <a href="#" class="navbar-brand"> Document Managements App </a>
         </div>
 
         <ul class="navbar-nav">
