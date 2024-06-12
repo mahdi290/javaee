@@ -7,7 +7,7 @@
 </head>
 <body>
 <header>
-    <nav class="navbar navbar-expand-md navbar-dark" style="background-color: tomato">
+    <nav class="navbar navbar-expand-md navbar-dark" style="background-color: black;">
         <div>
             <a href="#" class="navbar-brand"> Document Management App </a>
         </div>

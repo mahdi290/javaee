@@ -12,7 +12,7 @@ public static Connection getConnection() {
 		Class.forName("com.mysql.cj.jdbc.Driver");
 	
 		ctx = DriverManager.getConnection("jdbc:mysql://"
-				+ "localhost:3306/jee", "root", "");
+				+ "localhost:3306/demo", "root", "");
 	} catch (SQLException | ClassNotFoundException e) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
